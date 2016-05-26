@@ -16,3 +16,24 @@
 #header4-1 H1 {
   font-size: 60px;
 }
+#msg-box4-12 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-12 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-12 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-12 .mbr-article P {
+  text-align: left;
+}
+#features1-6 P {
+  text-align: left;
+}
+#msg-box1-14 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-14 .mbr-article {
+  color: #fff;
+}
